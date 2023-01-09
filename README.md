@@ -1,4 +1,6 @@
 
+### `npm install`
+## and
 ### `npm start`
 
 ![Screenshot from 2023-01-08 21-07-01](https://user-images.githubusercontent.com/94077952/211226110-7c948fbd-182c-4648-b4d0-3be8078c6614.png)
