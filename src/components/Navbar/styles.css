@@ -1,0 +1,26 @@
+.btn {
+    margin: 2px;
+    /* border-bottom: 5px; */
+    margin-block-end: 3px;
+    margin-inline-end: 20px;
+    width: 125px;
+    height: 35px;
+    
+}
+
+.navbar-brand {
+    margin-inline-start: 30px;
+}
+
+.nav-link {
+    /* height: 50px;
+    width: 400px; */
+    /* text-align: center; */
+    display: inline-flex;
+    margin-inline: 5px;
+    /* padding-block-end: 70px !important; */
+    /* margin-inline-start: 50px; */
+    padding-inline: 10px !important;
+    /* padding: 10px !important; */
+}
+
